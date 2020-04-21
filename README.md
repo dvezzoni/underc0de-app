@@ -1,5 +1,5 @@
-# flutter Underc0de foro app
-Aplication of Underc0de foro.
+# Underc0de App
+Aplicación de Underc0de hecha por ususarios para los usuarios.
 
 ## Getting Started
 
